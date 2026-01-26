@@ -16,7 +16,7 @@ Run python main.py to run MASSCL
 - circFSim.csv: circRNA functional similarity
 - disSSim.csv: disease semantic similarity
 - circGIPSim.csv: circRNA GIP similarity
-- disGIPSim.csvdisease GIP similarity
+- disGIPSim.csv: disease GIP similarity
 # Folder
 - code: Model code of MASSCL
 - datasets: Data required by MASSCL
