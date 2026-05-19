@@ -20,4 +20,4 @@ Run python main.py to run IHCDA
 # Folder
 - code: Model code of IHCDA
 - datasets: Data required by IHCDA
-- results: Results of MASSCL run
+- results: Results of IHCDA run
